@@ -1,0 +1,390 @@
+{
+  "album": [
+    {
+      "albumId": "1",
+      "name": "营养早餐",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201512/29/20151229212747_dfSAw.thumb.700_0.jpeg",
+      "playNum": "breakfast",
+      "list": [
+        {
+          "foodId": "101",
+          "name": "Nostalgic Piano",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "102",
+          "name": "La Citadelle",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "103",
+          "name": "Champ de tournesol",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "104",
+          "name": "Horizon Flare",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "105",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "106",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "107",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "108",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "2",
+      "name": "午后甜点",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201512/29/20151229212800_wJBsW.thumb.700_0.jpeg",
+      "playNum": "cake",
+      "list": [
+        {
+          "foodId": "201",
+          "name": "Nostalgic Piano",
+          "poster": "https://c-ssl.duitang.com/uploads/item/201304/08/20130408204912_afNFe.thumb.700_0.jpeg",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "202",
+          "name": "La Citadelle",
+          "poster": "https://c-ssl.duitang.com/uploads/item/201302/23/20130223125752_ruRkG.thumb.700_0.jpeg",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "203",
+          "name": "Champ de tournesol",
+          "poster": "https://c-ssl.duitang.com/uploads/blog/201408/20/20140820154006_JKVcR.thumb.700_0.jpeg",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "204",
+          "name": "Horizon Flare",
+          "poster": "https://c-ssl.duitang.com/uploads/item/201108/01/20110801101956_y3KfP.thumb.700_0.jpg",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "205",
+          "name": "Lovely Piano Song",
+          "poster": "https://c-ssl.duitang.com/uploads/item/201312/13/20131213192043_xJ2GA.thumb.700_0.jpeg",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "206",
+          "name": "Romantic Inspiration",
+          "poster": "https://c-ssl.duitang.com/uploads/item/201311/30/20131130121739_tf2AH.thumb.700_0.jpeg",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        }
+      ]
+    },
+    {
+      "albumId": "3",
+      "name": "清凉夏日",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201707/19/20170719121331_GYEzC.thumb.700_0.jpeg",
+      "playNum": "drink",
+      "list": [
+        {
+          "foodId": "301",
+          "name": "喜茶",
+          "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575524268822&di=c68770cf1b25d71da572e7e484a06b48&imgtype=0&src=http%3A%2F%2Fhot.23.cn%2Fupload%2Farticle%2F20190422%2F72641060691555918953.jpg",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "302",
+          "name": "星巴克",
+          "poster": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575524548452&di=512c12ce78c8b7d9d89beb0c09dd5c39&imgtype=0&src=http%3A%2F%2Fres.cngoldres.com%2Fupload%2F2018%2F0801%2F2bc7cd2824c107a2ea045bb72df09227.jpg%3F_%3D1533105350707",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "303",
+          "name": "奈雪",
+          "poster":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575524314093&di=53cf4fe5c564a37da23409a12c37a83a&imgtype=0&src=http%3A%2F%2Fwx3.sinaimg.cn%2Flarge%2F007a8u4Fly1fukk9z42f7j30j60csduh.jpg",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "304",
+          "name": "Horizon Flare",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "305",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "306",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        }
+      ]
+    },
+    {
+      "albumId": "4",
+      "name": "日式料理",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201707/20/20170720184557_aYdMk.thumb.700_0.jpeg",
+      "playNum": "SuShi",
+      "list": [
+        {
+          "foodId": "401",
+          "name": "Nostalgic Piano",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "402",
+          "name": "La Citadelle",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "403",
+          "name": "Champ de tournesol",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "404",
+          "name": "Horizon Flare",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "405",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "406",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "407",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "408",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "5",
+      "name": "面面面面",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201707/20/20170720104649_NinwK.thumb.700_0.jpeg",
+      "playNum": "noodle",
+      "list": [
+        {
+          "foodId": "501",
+          "name": "Nostalgic Piano",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "502",
+          "name": "La Citadelle",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "503",
+          "name": "Champ de tournesol",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "504",
+          "name": "Horizon Flare",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "505",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "506",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "507",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "508",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    },
+    {
+      "albumId": "6",
+      "name": "美食博主",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201502/27/20150227134039_ENJnr.thumb.700_0.jpeg",
+      "playNum": "Western",
+      "list": [
+        {
+          "foodId": "601",
+          "name": "Nostalgic Piano",
+          "poster": "http://res.lgdsunday.club/poster-1.png",
+          "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "602",
+          "name": "La Citadelle",
+          "poster": "http://res.lgdsunday.club/poster-2.png",
+          "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "603",
+          "name": "Champ de tournesol",
+          "poster": "http://res.lgdsunday.club/poster-3.png",
+          "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+          "author": "Komiku"
+        },
+        {
+          "foodId": "604",
+          "name": "Horizon Flare",
+          "poster": "http://res.lgdsunday.club/poster-4.png",
+          "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "605",
+          "name": "Lovely Piano Song",
+          "poster": "http://res.lgdsunday.club/poster-5.png",
+          "path": "http://res.lgdsunday.club/Lovely%20Piano%20Song.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "606",
+          "name": "Romantic Inspiration",
+          "poster": "http://res.lgdsunday.club/poster-6.png",
+          "path": "http://res.lgdsunday.club/Romantic%20Inspiration.mp3",
+          "author": "Rafael Krux"
+        },
+        {
+          "foodId": "607",
+          "name": "Brothers Unite",
+          "poster": "http://res.lgdsunday.club/poster-7.png",
+          "path": "http://res.lgdsunday.club/Brothers%20Unite.mp3",
+          "author": "Alexander Nakarada"
+        },
+        {
+          "foodId": "608",
+          "name": "Amazing Grace",
+          "poster": "http://res.lgdsunday.club/poster-8.png",
+          "path": "http://res.lgdsunday.club/Amazing%20Grace.mp3",
+          "author": "Kevin MacLeod"
+        }
+      ]
+    }
+  ],
+  "hot": [
+    {
+      "foodId": "7",
+      "name": "FRENCH DESSERT",
+      "poster": "https://c-ssl.duitang.com/uploads/item/201305/10/20130510141519_WLsUX.thumb.700_0.jpeg",
+      "path": "http://res.lgdsunday.club/Nostalgic%20Piano.mp3",
+      "author": "Rafael Krux"
+    },
+    {
+      "foodId": "8",
+      "name": "BREAKFAST SPECIAL",
+      "poster": "https://c-ssl.duitang.com/uploads/blog/201307/20/20130720120221_THFww.thumb.700_0.jpeg",
+      "path": "http://res.lgdsunday.club/La%20Citadelle.mp3",
+      "author": "Komiku"
+    },
+    {
+      "foodId": "9",
+      "name": "VEGETARIAN WEEK",
+      "poster": "https://c-ssl.duitang.com/uploads/blog/201307/20/20130720121707_JmFEu.thumb.700_0.jpeg",
+      "path": "http://res.lgdsunday.club/Champ%20de%20tournesol.mp3",
+      "author": "Komiku"
+    },
+    {
+      "musicId": "10",
+      "name": "AFTERNOON TEA",
+      "poster": "https://c-ssl.duitang.com/uploads/blog/201408/20/20140820154023_ztfLw.thumb.700_0.jpeg",
+      "path": "http://res.lgdsunday.club/Horizon%20Flare.mp3",
+      "author": "Alexander Nakarada"
+    }
+  ]
+}

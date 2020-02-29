@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activitys.ShowActivity">
+
+    <ImageView
+        android:id="@+id/iv_bg"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_cake"/>
+    <com.example.myapplication.views.ShowView
+        android:id="@+id/show_1"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="250dp"
+        android:layout_height="wrap_content"></com.example.myapplication.views.ShowView>
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lily Collins"
+        android:layout_gravity="center"
+        android:layout_marginBottom="125dp"
+        android:textColor="@color/titleColor"
+        android:textSize="@dimen/titleSize"
+        android:textStyle="bold"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/no_bar_back"
+        android:layout_margin="@dimen/marginSize"
+        android:onClick="onBackClick"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="23dp"
+        android:layout_marginTop="265dp">
+
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="follower"
+            android:textColor="@color/white"
+            android:textSize="@dimen/titleSize"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical"
+         android:gravity="center_vertical"
+         android:paddingLeft="5dp"
+         android:layout_marginTop="320dp">
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="下午茶"
+             android:layout_marginLeft="@dimen/marginSize"
+             android:textColor="@color/titleColor"
+             android:textSize="@dimen/titleSize"
+             android:textStyle="bold"/>
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="已认证的官方账号"
+             android:layout_marginTop="35dp"
+             android:layout_marginLeft="@dimen/marginSize"
+             android:textColor="@color/titleColor"
+             android:textSize="@dimen/titleSize"
+             android:textStyle="bold"/>
+
+
+     </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="220dp"
+        android:layout_marginTop="310dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="120"
+            android:layout_marginLeft="18dp"
+            android:textColor="@color/mainColor"
+            android:textSize="30sp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="关注他的人"
+            android:textColor="@color/infoColor"
+            android:textSize="@dimen/titleSize"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+
+        android:layout_marginTop="445dp">
+
+
+
+
+            <View
+                android:layout_width="6dp"
+                android:layout_height="22dp"
+                android:background="@color/mainColor"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="相关推荐"
+                android:textColor="@color/titleColor"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_marginLeft="@dimen/marginTabSize"/>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="440dp"
+            >
+            <ImageView
+
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:src="@mipmap/ic_ww"
+                />
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:gravity="center"
+                android:text="Whiskey Cake"
+                android:textColor="@color/titleColor"
+                android:textStyle="bold"
+                android:textSize="@dimen/titleSize"/>
+
+
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="600dp"
+        >
+        <ImageView
+
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@mipmap/ic_ww"
+            />
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:gravity="center"
+            android:text="Whiskey Cake"
+            android:textColor="@color/titleColor"
+            android:textStyle="bold"
+            android:textSize="@dimen/titleSize"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</FrameLayout>

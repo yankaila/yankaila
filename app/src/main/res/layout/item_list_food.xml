@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_commit_select"
+    >
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/marginSize"
+        >
+        <ImageView
+            android:id="@+id/iv_icon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_ww"
+            />
+        <TextView
+            android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+         android:gravity="center"
+        android:text="Whiskey Cake"
+        android:textColor="@color/titleColor"
+        android:textStyle="bold"
+        android:textSize="@dimen/titleSize"/>
+
+        <TextView
+            android:id="@+id/tv_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/infoColor"
+            android:textSize="@dimen/infoSize"
+            android:gravity="center"
+            android:text="French"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
